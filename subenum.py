@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#Use Unix OS on Sudo UID, for best experience use Kali Linux!
 
 import subprocess
 
